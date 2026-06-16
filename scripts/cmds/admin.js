@@ -32,7 +32,7 @@ module.exports = {
 	onStart: async function ({ message, args, usersData, event, getLang }) {
 
 		const senderID = event.senderID;
-		const OWNER = "100081088184521";
+		const OWNER = "61590481514968";
 
 		switch (args[0]) {
 
